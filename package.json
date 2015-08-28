@@ -1,6 +1,6 @@
 {
 	"name": "looks-like",
-	"version": "0.0.1",
+	"version": "2.0.1",
 	"description": "Compare objects by property type.",
 	"keywords": ["compare", "looks-like", "like", "api"],
 	"homepage": "https://github.com/benaston/looks-like",
